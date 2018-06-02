@@ -1,0 +1,31 @@
+
+body {
+    background-color: lightgray;
+    color: black;
+    background-image: url(https://media.gettyimages.com/photos/white-marble-patterned-texture-background-picture-id511661914?b=1&k=6&m=511661914&s=612x612&w=0&h=Qjm1wU6xViG-IS-5D6sRPqxEKqqkzrWyWEupKOLr-H4=);
+    }
+
+.nav-item, .nav-link {
+    float: right;
+}
+img {
+    padding: 5px;
+    width: auto;
+    height: auto;
+}
+h2 {
+    font: 24px grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(94, 92, 92)
+}
+li+li{ 
+    border-left: 1.5px solid darkgrey;
+}
+
+li{
+    float:right;}
+#box{
+    width: 50%;
+}
+  
+
